@@ -10,8 +10,8 @@
     "last_error": "55bfd41\",\"total_cost_usd\":0,\"usage\":{\"input_tokens\":0,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":0,\"output_tokens\":0,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\""
   },
   "heartbeat": {
-    "last_dispatch": "2026-06-24T08:04:03Z",
-    "last_status": "failed",
+    "last_dispatch": "2026-06-24T11:13:49Z",
+    "last_status": "dispatched",
     "last_failed": "2026-06-24T08:07:09Z",
     "total_runs": 842,
     "total_successes": 0,
