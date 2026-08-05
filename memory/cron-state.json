@@ -11,12 +11,12 @@
   },
   "heartbeat": {
     "last_dispatch": "2026-08-05T20:18:00Z",
-    "last_status": "dispatched",
-    "last_failed": "2026-08-05T18:51:58Z",
-    "total_runs": 1407,
+    "last_status": "failed",
+    "last_failed": "2026-08-05T20:21:22Z",
+    "total_runs": 1408,
     "total_successes": 0,
-    "total_failures": 1407,
-    "consecutive_failures": 1407,
+    "total_failures": 1408,
+    "consecutive_failures": 1408,
     "success_rate": 0,
     "last_error": "tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{},\"permission_denials\":[],\"terminal"
   }
